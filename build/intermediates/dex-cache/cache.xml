@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nguyen Thuy\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="E:\HocTap\technology\android\LibView\app\build\intermediates\pre-dexed\debug\gson-2.3-bde58f504d63be83aa879ad859c22b8949e884b4.jar" />
+    </item>
+    <item
+        jar="E:\HocTap\technology\android\LibView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\HocTap\technology\android\LibView\app\build\intermediates\pre-dexed\debug\classes-ad7d28157829e63609bcf28e68eee95a574190df.jar" />
+    </item>
+    <item
+        jar="E:\HocTap\technology\android\LibView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\HocTap\technology\android\LibView\app\build\intermediates\pre-dexed\debug\classes-31a607d6d11dfe4821a4ae53700f5571efbb61e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nguyen Thuy\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="E:\HocTap\technology\android\LibView\app\build\intermediates\pre-dexed\debug\httpcore-4.4.1-94ec4434b49661ff3ad0bf8e1c78703340bfa4f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nguyen Thuy\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\HocTap\technology\android\LibView\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-f697f9e7ffceb20520ece08864c553cb71ce1872.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nguyen Thuy\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.8\77bbfe240e437ecb396d982afa0d3bd4f9090ba7\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="E:\HocTap\technology\android\LibView\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8-77d517a192475f82ca7298c16865728718699f49.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nguyen Thuy\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.8\77bbfe240e437ecb396d982afa0d3bd4f9090ba7\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="E:\HocTap\technology\android\LibView\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8-77d517a192475f82ca7298c16865728718699f49.jar" />
+    </item>
+    <item
+        jar="E:\HocTap\technology\android\LibView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\HocTap\technology\android\LibView\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-f4939cdf874c7c5c91a0a58ad0a349e078dfc6d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nguyen Thuy\.gradle\caches\modules-2\files-2.1\com.koushikdutta.ion\ion\2.1.6\cd55ef3ba6d8b62838b658ba2507b019dffb3a08\ion-2.1.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cd55ef3ba6d8b62838b658ba2507b019dffb3a08">
+        <dex dex="E:\HocTap\technology\android\LibView\app\build\intermediates\pre-dexed\debug\ion-2.1.6-a5a4e80f642f8d1c6457c0beb60320c112bf4de3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nguyen Thuy\.gradle\caches\modules-2\files-2.1\com.koushikdutta.async\androidasync\2.1.6\e3d5f6ab2003e31f2cf5ea61b4731a21e9517935\androidasync-2.1.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3d5f6ab2003e31f2cf5ea61b4731a21e9517935">
+        <dex dex="E:\HocTap\technology\android\LibView\app\build\intermediates\pre-dexed\debug\androidasync-2.1.6-4a0e30ae6382114829f3d97bec413518f22a470e.jar" />
+    </item>
+
+</items>
